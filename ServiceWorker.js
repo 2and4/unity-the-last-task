@@ -1,9 +1,9 @@
-const cacheName = "2and4 Development-The Last Task-1.0.0";
+const cacheName = "2and4 Development-The Last Task-1.0.1";
 const contentToCache = [
-    "Build/webgl.loader.js",
-    "Build/cac11487858415bdd5b29478b403f3ca.js",
-    "Build/ea90718c3d1a5cccaa29ee83ce22b8fe.data",
-    "Build/4d0a840ae1b5a3680fd22cc5aae8e292.wasm",
+    "Build/webgl_2.0.loader.js",
+    "Build/9af9bb89bbb3c9462edfdd7c4e8f33ad.js",
+    "Build/1306b2608f7691d12d2abe979bbd7d80.data",
+    "Build/011228b1c4db7e4007f6906699632ec1.wasm",
     "TemplateData/style.css"
 
 ];
