@@ -7,7 +7,7 @@ It aims to capture some of the expressions and memories from our time working to
 I hope that some of you can chuckle about it, and I wish you all the best for the future.<br/>
 
 
-## Crafted with **Unity**
+## Enabled by **Unity Technologies**
 
 ### Target Platforms
 * WebGL 2.0 **(WASM)**<br/> 
@@ -34,3 +34,7 @@ I hope that some of you can chuckle about it, and I wish you all the best for th
 * GPU Instancing
 * Occlusion Culling
 * Shader Precompilation
+
+## 
+
+![The Last Task Editor](https://2and4.github.io/unity-the-last-task/Assets/the-last-task-editor.jpg "The Last Task Editor")
