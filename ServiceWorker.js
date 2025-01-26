@@ -2,7 +2,7 @@ const cacheName = "2and4 Development-The Last Task-1.1.0";
 const contentToCache = [
     "Build/09d981ca8521ecd219931d3479487c43.loader.js",
     "Build/fbaba5a7902be02b4afa9445372fd895.framework.js",
-    "Build/7003404b77a3b78b725badb696a6d4f7.data",
+    "Build/e70cb79d37d1f99bdb7c0791c151980b.data",
     "Build/4bad478dc33529bb3c6ec0905dd9eb28.wasm",
     "TemplateData/style.css"
 
