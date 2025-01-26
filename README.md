@@ -1,4 +1,4 @@
-The Last Task
+The Last Task ([Unity 6](https://unity.com/releases/unity-6))
 ===
 
 This experience is a small glimpse into the past and a farewell gift for former colleagues.<br/>
@@ -6,34 +6,38 @@ It aims to capture some of the expressions and memories from our time working to
 
 I hope that some of you can chuckle about it, and I wish you all the best for the future.<br/>
 
+* **[Changelog](/CHANGELOG.md)**
 
-## Enabled by **Unity Technologies**
+## Platforms
 
-### Target Platforms
-* WebGL 2.0 **(WASM)**<br/> 
-**-> [Start Web Application](https://2and4.github.io/unity-the-last-task/)**
+* WebAssambly **(wasm)**
+    * WebGL
+    * **[Show Application](https://2and4.github.io/unity-the-last-task/)**
 * Windows **(x64/arm64)**
-* MacOS **(intel_x64/silicon_arm64)**
+    * DirectX
+* MacOS **(x64/arm64)**
+    * Metal
 * Linux **(x64)**
-* Xbox **(uwp_x64)**
+    * Vulkan
+* Xbox **(x64)**
+    * DirectX
 
-### Build Settings
+### Render Pipeline
 * Universal Render Pipeline **(URP)**
-* IL2CPP Compilation **(AOT)**
-* .NET Standard 2.1
+* Ahead Of Time Compilation **(IL2CPP)**
 
 ### Core Features
-* Adaptive Input System **(Mouse&Keyboard/Gamepad)**<br/> 
-* Localization System **(English/German)**<br/>
-* Multiplatform Settings **(Video/Audio)**<br/>
-* Cinematic Cutscenes **(Cinemachine)**<br/> 
-* Custom Dialog System<br/> 
+* Adaptive Input **(Mouse&Keyboard/Gamepad)**
+* Flexible Localization **(English/German)**
+* Multiplatform Settings **(Video/Audio)**
+* Volumetric Lights **(Mie Scattering)**
+* Dolly Shots **(Cinemachine)**
 
 ### Performance Decisions
-* Baked Lighting
 * GPU Instancing
 * Occlusion Culling
 * Shader Precompilation
+* Baked Global Illumination
 
 ## 
 
