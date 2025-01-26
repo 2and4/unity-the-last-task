@@ -1,9 +1,9 @@
 const cacheName = "2and4 Development-The Last Task-1.1.0";
 const contentToCache = [
-    "Build/09d981ca8521ecd219931d3479487c43.loader.js",
-    "Build/fbaba5a7902be02b4afa9445372fd895.framework.js",
-    "Build/e70cb79d37d1f99bdb7c0791c151980b.data",
-    "Build/4bad478dc33529bb3c6ec0905dd9eb28.wasm",
+    "Build/d311ed294609422412e2671635c1084c.loader.js",
+    "Build/fbaba5a7902be02b4afa9445372fd895.framework.js.unityweb",
+    "Build/44c46a27d6a17ae0d3e45491cde2aa05.data.unityweb",
+    "Build/4bad478dc33529bb3c6ec0905dd9eb28.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
