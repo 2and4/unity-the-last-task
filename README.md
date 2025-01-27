@@ -1,5 +1,6 @@
 The Last Task ([Unity 6](https://unity.com/releases/unity-6))
 ===
+### Version 1.1.0
 
 This experience is a small glimpse into the past and a farewell gift for former colleagues.<br/>
 It aims to capture some of the expressions and memories from our time working together in the office.<br/>
